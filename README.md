@@ -56,7 +56,7 @@ Building from our prototype, Project Plutus aims to bridge tradition with contem
 https://github.com/samuelralak/plutus/assets/4476552/72180397-e212-4405-bc8f-4772e9e9ff06
 
 
-
+[Feedback or interested in joing waitlist](https://forms.gle/cbbFG8KR6ySJQ2yf7)
 
 # Appendices:
 
