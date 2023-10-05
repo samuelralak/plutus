@@ -51,6 +51,13 @@ While court outcomes can't be pre-determined, Project Plutus aims to maximize th
 Building from our prototype, Project Plutus aims to bridge tradition with contemporary solutions, delivering unparalleled value to its users while capitalizing on an untapped market opportunity.
 
 
+### Prototype:
+
+https://github.com/samuelralak/plutus/assets/4476552/72180397-e212-4405-bc8f-4772e9e9ff06
+
+
+
+
 # Appendices:
 
 ### 1. About the Name 'Plutus':
