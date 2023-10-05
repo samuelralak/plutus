@@ -1,6 +1,4 @@
-# Plutus: 
-
-**Personal Debt Tracking for Friends & Family**
+# Plutus: Personal Debt Tracking for Friends & Family
 
 ### Purpose:
 
